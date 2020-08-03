@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: nosql_azure_redis_exercise
+
